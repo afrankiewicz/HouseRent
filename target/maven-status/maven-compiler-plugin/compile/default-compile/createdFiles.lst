@@ -1,0 +1,15 @@
+com/house/shared/exceptions/BadRequestException.class
+com/house/rental/RentalModel.class
+com/house/user/UserDto.class
+com/house/user/UserRepository.class
+com/house/rental/RentalDto.class
+com/house/property/PropertyDto.class
+com/house/property/PropertyModel.class
+com/house/property/PropertyRepository.class
+com/house/property/PropertyService.class
+com/house/user/UserModel.class
+com/house/HouseRentApplication.class
+com/house/property/PropertyController.class
+com/house/rental/RentalRepository.class
+com/house/rental/RentalService.class
+com/house/user/UserService.class

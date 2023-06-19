@@ -1,0 +1,15 @@
+/Users/Agata/Documents/HouseRent/src/main/java/com/house/user/UserModel.java
+/Users/Agata/Documents/HouseRent/src/main/java/com/house/property/PropertyService.java
+/Users/Agata/Documents/HouseRent/src/main/java/com/house/user/UserService.java
+/Users/Agata/Documents/HouseRent/src/main/java/com/house/user/UserDto.java
+/Users/Agata/Documents/HouseRent/src/main/java/com/house/property/PropertyRepository.java
+/Users/Agata/Documents/HouseRent/src/main/java/com/house/rental/RentalModel.java
+/Users/Agata/Documents/HouseRent/src/main/java/com/house/HouseRentApplication.java
+/Users/Agata/Documents/HouseRent/src/main/java/com/house/rental/RentalService.java
+/Users/Agata/Documents/HouseRent/src/main/java/com/house/rental/RentalRepository.java
+/Users/Agata/Documents/HouseRent/src/main/java/com/house/property/PropertyDto.java
+/Users/Agata/Documents/HouseRent/src/main/java/com/house/rental/RentalDto.java
+/Users/Agata/Documents/HouseRent/src/main/java/com/house/property/PropertyModel.java
+/Users/Agata/Documents/HouseRent/src/main/java/com/house/property/PropertyController.java
+/Users/Agata/Documents/HouseRent/src/main/java/com/house/user/UserRepository.java
+/Users/Agata/Documents/HouseRent/src/main/java/com/house/shared/exceptions/BadRequestException.java
